@@ -126,7 +126,7 @@ line-height: 1.5;}
 
 
 
-#pricing{padding: 100px; }
+#pricing{padding: 60px; }
 
 .pricing-text{font-size: 3rem;
 line-height: 1.5;}
@@ -141,5 +141,5 @@ line-height: 1.5;}
 padding: 7% 15%}
 
 
-#footer{ padding: 7% 15%}
-.ioconfotter{margin: 30px 20px }
+#footer{ padding: 7% 0%}
+.ioconfotter{margin: 30px 13px }
